@@ -58,25 +58,25 @@ function showAdv(score, callback) {
 Array.prototype._73 = 0;
 var _83 = {
     _93: [{
-        _a3: ["tph_sgext.js"]
+        _a3: ["https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/tph_sgext.js"]
     }, {
         _a3: ["uph_exPatchDeviceVibrate.js"]
     }, {}],
     _b3: [{
-        _c3: "snd_die",
+        _c3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_die.ogg",
         _d3: 0,
         _e3: ".wav",
-        _f3: "snd_die",
+        _f3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_die.ogg",
         _g3: 0,
         volume: 1,
         _h3: 0,
         preload: !0,
         _i3: 0
     }, {
-        _c3: "snd_dam",
+        _c3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_dam.ogg",
         _d3: 0,
         _e3: ".wav",
-        _f3: "snd_dam",
+        _f3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_dam.ogg",
         _g3: 0,
         volume: 1,
         _h3: 0,
@@ -93,10 +93,10 @@ var _83 = {
         preload: !0,
         _i3: 0
     }, {
-        _c3: "snd_click",
+        _c3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_click.ogg",
         _d3: 0,
         _e3: ".wav",
-        _f3: "snd_click",
+        _f3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_click.ogg",
         _g3: 0,
         volume: 1,
         _h3: 0,
@@ -353,20 +353,20 @@ var _83 = {
         preload: !0,
         _i3: 0
     }, {
-        _c3: "snd_enemy1",
+        _c3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_enemy1.ogg",
         _d3: 0,
         _e3: ".wav",
-        _f3: "snd_enemy1",
+        _f3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_enemy1.ogg",
         _g3: 0,
         volume: 1,
         _h3: 0,
         preload: !0,
         _i3: 0
     }, {
-        _c3: "snd_enemy2",
+        _c3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_enemy2.ogg",
         _d3: 0,
         _e3: ".wav",
-        _f3: "snd_enemy2",
+        _f3: "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@df2a6a11edfb8e651dc0922ec6c0f5c00e22b23c/lol/snd_enemy2.ogg",
         _g3: 0,
         volume: 1,
         _h3: 0,
@@ -9112,7 +9112,7 @@ var _83 = {
         _l9: 1024,
         _m9: 0
     }],
-    _n9: ["SnakeIceWeb_texture_0.png", "SnakeIceWeb_texture_1.png"],
+    _n9: ["https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@a5e76d73ab953b53cacc8bdfd71f62ae44244d52/lol/SnakeIceWeb_texture_0.png", "https://cdn.jsdelivr.net/gh/Xxidkd00dxX/swf@a5e76d73ab953b53cacc8bdfd71f62ae44244d52/lol/SnakeIceWeb_texture_1.png"],
     _o9: {
         _p9: !1,
         _q9: 1,
